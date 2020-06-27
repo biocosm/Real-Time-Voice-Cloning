@@ -18,3 +18,9 @@
 encoder/saved_models/*
 synthesizer/saved_models/*
 vocoder/saved_models/*
+rtvc/*
+notes/*
+sounds/*
+pretrained.zip
+start.sh
+train-clean-100.tar.gz
